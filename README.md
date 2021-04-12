@@ -10,7 +10,7 @@ Designing a dashborad for bank with following functionalities which I developed:
 <img src="image/git_potential.png" width=600 height=400>  
 
 
-• Calculating similarity of each pair accounts based on the number of in coming & out going edges to know how much two accounts are similar potentially, specially in the case of labeling (blacklist, red list, white list)
+• Calculating similarity of each pair accounts (using SimRank algorithm) based on the number of in coming & out going edges to know how much two accounts are similar, specially in the case of labeling (blacklist, red list, white list)
 
 Python libraries: **Pyvis , Networkx** 
 
